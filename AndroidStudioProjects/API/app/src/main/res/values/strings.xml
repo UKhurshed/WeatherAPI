@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherAPI</string>
+    <string name="text">Daily Forecast for Yekaterinburg</string>
+    <string name="addData">Add</string>
+    <string name="readData">Read</string>
+    <string name="clearData">Clear</string>
+
+</resources>
